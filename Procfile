@@ -1,1 +1,1 @@
-web: supervisor --harmony index
+web: node --harmony index

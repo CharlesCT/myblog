@@ -4,8 +4,8 @@
   "description": "my first blog",
   "main": "index.js",
   "scripts": {
-    "test": "\"echo \\\"Error: no test specifed\\\"&&exit 1\""
-   "start": "supervisor --harmony index"
+    "test": "\"echo \\\"Error: no test specifed\\\"&&exit 1\"",
+   "start": "supervisor --harmony  index"
   },
   "repository": {
     "type": "git",
